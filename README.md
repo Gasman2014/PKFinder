@@ -18,8 +18,8 @@ Examples
 
 The script will accept values in a variety of forms e.g. C_0805_100n or C_0805_0.1u or C_0805_0u1 are all equivalent.
 
-![](shot1.png)
+![](Shot1.png)
 
 The connection to the PartKeepr database is defined by the settings in the config.ini file which should be populated with the necessary path to the database, PartKeepr username and password.
 
-![](shot2.png)
+![](Shot2.png)
